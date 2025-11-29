@@ -1,0 +1,11 @@
+[package]
+name = "bmp_image_manager"
+version = "1.0.0"
+edition = "2024"
+author = "Theora59"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+bmp = "0.5.0"
