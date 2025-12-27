@@ -137,8 +137,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 Merci de me contacter si vous voulez de l'aide sou souhaitez apporter/que j'apporte des modifications à cette lib.
 
 ***
-
-## 🎯 Utilisations typiques
-
-- **Génération d'images** depuis algorithmes C (fractales, rendu)
-- ** pont C/Rust** pour GUI natives
